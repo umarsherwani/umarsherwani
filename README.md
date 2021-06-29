@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @umarsherwani
-- 👀 I’m interested in to explore new technology in CODING area
+### Hola, I'm Umar Sherwani!
+- 👀 I’m interested in to explore new technology in CODING Area
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on LinkdIn
 - 📫 How to reach me ...(https://www.linkedin.com/in/umarsherwani/)
