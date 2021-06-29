@@ -2,7 +2,7 @@
 - 👀 I’m interested in to explore new technology in CODING Area
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on LinkdIn
-- 📫 How to reach me ...(https://www.linkedin.com/in/umarsherwani/)
+- 📫 How to reach me ...[https://www.linkedin.com/in/umarsherwani/](https://www.linkedin.com/in/umarsherwani/)
 
 <!---
 umarsherwani/umarsherwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
